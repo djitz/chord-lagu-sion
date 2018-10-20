@@ -1,7 +1,16 @@
 # Chord Lagu Sion
 
+Salam semuanya!  
 
-* Trijito Santoso's blog: 
+Masih dengan misi yang sama seperti yang saya miliki [sebelumnya](https://djitz.com/freebies/lagu-sion-for-guitar-players/), disini saya mencoba menuliskan kunci-kunci (chord) untuk tiap lagu di lagu sion.  
+
+Kali ini saya memilih untuk menggunakan GitHub sebagai tempat penyimpanan karena memiliki beberapa kelebihan:
+* Ada history edit file
+* Mudah untuk dicopy dan didownload
+* Mudah untuk kolaborasi
+
+### Links
+* Blog post original: 
   * https://djitz.com/freebies/lagu-sion-for-guitar-players/
 
 * Google Drive version:
