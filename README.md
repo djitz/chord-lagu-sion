@@ -9,6 +9,10 @@ Kali ini saya memilih untuk menggunakan GitHub sebagai tempat penyimpanan karena
 * Mudah untuk dicopy dan didownload
 * Mudah untuk kolaborasi
 
+### Daftar Isi
+* [Edisi lama](https://github.com/djitz/chord-lagu-sion/blob/master/edisi-lama/000.%20DAFTAR%20ISI.md)
+* [Edisi baru]()
+
 ### Links
 * Blog post original: 
   * https://djitz.com/freebies/lagu-sion-for-guitar-players/
